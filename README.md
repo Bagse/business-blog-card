@@ -1,4 +1,6 @@
-# React + Vite
+![image](https://github.com/Bagse/business-blog-card/assets/102260190/21994d9b-acf5-4741-bc42-aeb56a03e752)
+
+# Business Blog Card
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
